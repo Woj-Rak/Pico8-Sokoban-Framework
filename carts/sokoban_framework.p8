@@ -467,22 +467,6 @@ function _update()
 		end_state_input()
 	end
 end
--->8
---todo (1.1)
---1) teleport tiles
---2) in-game gui?(current level/steps taken in the level)
---3) pulling crates
---èshould be able to enable/disable on a lvl by lvl basis
---4) save progress and add a load option to main menu
---5) different type of target
---èsingle target for all crates?
---6) level select on main menu
---9) add a "swapper" mechanic
---10) add a "ball" tile
---è when pushed rolls until it hits something
---è hitting another ball stops the first but sets the next one in motion
---11) control two players at once
---12) conveyor belt tiles
 __gfx__
 00000000004444000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 00000000007ff7000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
