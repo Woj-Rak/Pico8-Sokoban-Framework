@@ -74,18 +74,23 @@ msg_y | Starting Y position of the pre-level message
 
 ### Make Sprites
 Make your sprites and set the flags correctly (refer to the flag mapping image at the top of this page)
-(GIF HERE)
+![](/img/making_sprites.gif)
+
 NOTE: Remember to make sure your crate/ground/target/player sprites are in the positions you have defined at the top of the config page.
 
 ### Build the level
 Build the level anywhere in the map editor using your sprites.
-(GIF HERE)
+
+![](/img/level_making.gif)
 
 ### Add the level to the config page
-(GIF HERE)
+Add the level to the config page.
 
+![](/img/config_level.gif)
 ### Test the level
-(GIF HERE)
+![](/img/test_level.gif)
+
+Play your new level!
 
 ## Contact Me
 If you find any issues or have any suggestions regarding this framework feel free to let me know on my [Twitter](https://twitter.com/wojrakdev) or here! (Add a link to the BBS thread.)
