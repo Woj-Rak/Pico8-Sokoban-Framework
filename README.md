@@ -93,4 +93,4 @@ Add the level to the config page.
 Play your new level!
 
 ## Contact Me
-If you find any issues or have any suggestions regarding this framework feel free to let me know on my [Twitter](https://twitter.com/wojrakdev) or here! (Add a link to the BBS thread.)
+If you find any issues or have any suggestions regarding this framework feel free to let me know on my [Twitter](https://twitter.com/wojrakdev) or in the [BBS Thread](https://www.lexaloffle.com/bbs/?tid=31703)
