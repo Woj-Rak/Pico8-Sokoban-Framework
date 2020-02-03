@@ -1,4 +1,6 @@
 # Pico-8 Sokoban Framework
+[Try the sample game here!](https://www.lexaloffle.com/bbs/?tid=31703)
+
 The idea of this framework is to allow Pico-8 developers of any skill level to quickly put together their own sokoban games.
 Remember to have a look at the "Crate Pusher" cart as an example if you're unclear about something.
 
