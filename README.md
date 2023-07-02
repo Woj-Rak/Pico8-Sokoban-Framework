@@ -8,7 +8,7 @@ Remember to have a look at the "Crate Pusher" cart as an example if you're uncle
 ![Sprite Flag Mapping](/img/flag_mapping.png)
 
 ## Config Page
-The config page is the first tab in the code editor of this cart. This is the only part of the code tab you should have to open if you want to just use the framework as is. The config page consits of variables which allow you  to create a custom start and end menu. All these values have to be set before continuing.
+The config page is the first tab in the code editor of this cart. This is the only part of the code tab you should have to open if you want to just use the framework as is. The config page consists of variables which allow you to create a custom start and end menu. All these values have to be set before continuing.
 
 ### Variables to set
 
@@ -76,6 +76,7 @@ msg_y | Starting Y position of the pre-level message
 
 ### Make Sprites
 Make your sprites and set the flags correctly (refer to the flag mapping image at the top of this page)
+
 ![](/img/making_sprites.gif)
 
 NOTE: Remember to make sure your crate/ground/target/player sprites are in the positions you have defined at the top of the config page.
